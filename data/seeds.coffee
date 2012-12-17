@@ -25,6 +25,11 @@
 App.requireDirectory('./test/factories')
 
 _.series [
+  (callback) =>
+    _(20).timesAsync callback, (next) =>
+      Tower.Factory.create 'ircBot', (error, record) =>
+        console.log _.stringify(record)
+        next()
 ], (error) =>
   # Check to see if there was an error in the seed
   if error

@@ -9,6 +9,7 @@ module.exports =
       '/app/controllers/client/applicationController'
       '/templates'
       '/app/views/client/layout/application'
+      '/app/models/shared/ircBot'
     ]
 
     lib: [
@@ -49,6 +50,7 @@ module.exports =
       '/vendor/javascripts/mocha'
       '/vendor/javascripts/chai'
       '/test/client'
+      '/test/cases/models/shared/ircBotTest'
     ]
 
   stylesheets:
