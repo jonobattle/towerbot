@@ -1,0 +1,19 @@
+/* TEAM */
+  Frontend:   Jonathan Battle
+  GitHub:     jonobattle
+  Twitter:    -
+  Location:   -
+
+  Backend:    Jonathan Battle
+  GitHub:     jonobattle
+  Twitter:    -
+  Location:   -
+
+  Mobile:     Jonathan Battle
+  GitHub:     jonobattle
+  Twitter:    -
+  Location:   -
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Tower, jQuery, Underscore.js

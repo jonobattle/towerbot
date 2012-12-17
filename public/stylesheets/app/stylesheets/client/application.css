@@ -1,0 +1,10 @@
+form .fields {
+  list-style-type: none;
+}
+form .fields input {
+  min-width: 400px;
+}
+form .fields textarea {
+  min-width: 400px;
+  min-height: 200px;
+}
